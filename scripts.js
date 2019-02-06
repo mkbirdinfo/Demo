@@ -1,3 +1,3 @@
 function Alert(){
-    alert("Js called now again");
+    alert("Js called now updated");
 }
